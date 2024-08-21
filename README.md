@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @beronica
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 📫 How to reach me on Linked In
+
 
 
 <!---
